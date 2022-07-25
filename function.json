@@ -5,6 +5,7 @@
             "name": "req",
             "type": "httpTrigger",
             "direction": "in",
+            "route": "Echo",
             "methods": [
                 "get"
             ]
